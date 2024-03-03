@@ -2,8 +2,9 @@
 
 <h2>💻 Personal Projects:</h2>
 
+- [Habit Tracking App (Python + SQL)](https://github.com/yusufkbyz/Habit-Tracking-App-Python)
 - [Exploring US Bikeshare Data (Python)](https://github.com/yusufkbyz/Explore-US-Bikeshare-Data)
-- [Investigating a Dataset (Python)](https://github.com/yusufkbyz/Investigate-a-Dataset)
+- [Investigating a Dataset (Python + Jupyter)](https://github.com/yusufkbyz/Investigate-a-Dataset)
   
 <h2> 🌐 Connect with me:</h2>
 
